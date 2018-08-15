@@ -1,4 +1,4 @@
-package testGoogle.test;
+/*package testGoogle.test;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -13,3 +13,4 @@ public class testGoogleJenkins {
 	}
 
 }
+*/
