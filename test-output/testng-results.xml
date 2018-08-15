@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54638" started-at="2018-08-15T08:01:29Z" finished-at="2018-08-15T08:02:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54638" started-at="2018-08-15T08:01:29Z" finished-at="2018-08-15T08:02:24Z">
+      <class name="testGoogle.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testGoogle.NewTest@3cc2931c]" name="beforeTest" is-config="true" duration-ms="20687" started-at="2018-08-15T15:01:29Z" finished-at="2018-08-15T15:01:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="searchHotelWithoutDate()[pri:0, instance:testGoogle.NewTest@3cc2931c]" name="searchHotelWithoutDate" duration-ms="33267" started-at="2018-08-15T15:01:50Z" finished-at="2018-08-15T15:02:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHotelWithoutDate -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testGoogle.NewTest@3cc2931c]" name="afterTest" is-config="true" duration-ms="666" started-at="2018-08-15T15:02:23Z" finished-at="2018-08-15T15:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testGoogle.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
